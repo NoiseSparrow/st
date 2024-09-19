@@ -1,0 +1,27 @@
+body {
+margin-bottom: 20%;
+}
+h1, h3, ol, hr {
+margin-left: 20%;
+margin-right: 20%;
+}
+table {
+width: 60%;
+border-collapse: collapse;
+margin: auto;
+}
+table, th, td {
+border: 1px solid black;
+}
+tr {
+vertical-align: top;
+}
+th, td {
+padding: 10px;
+text-align: center;
+}
+.vertical-text {
+writing-mode: vertical-rl;
+text-orientation: upright;
+padding: 0;
+}
